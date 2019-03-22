@@ -26,4 +26,8 @@ Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Dow
 
 ## [Wallart](Wallart/)
 
-I'll explain later!
+Three-page theme optimized for 18:9 screens. [**Download**](Wallart/Wallart_1g.kwlp)
+
+|                            |                            |                            |
+| -------------------------- | -------------------------- | -------------------------- |
+| ![](Wallart/preview/1.jpg) | ![](Wallart/preview/2.jpg) | ![](Wallart/preview/3.jpg) |
