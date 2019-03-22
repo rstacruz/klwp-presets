@@ -12,8 +12,18 @@ Pretty themes for KLWP
 
 <br>
 
+These themes require [KLWP][klwp] (Kustom Live Wallpaper) with a Pro key.
+
+[klwp]: https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en
+
 ## [iPod](iPod/)
 
-![](iPod/preview/1.jpg)
-![](iPod/preview/2.jpg)
-![](iPod/preview/3.jpg)
+Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Download**](iPod/iPod.kwlp)
+
+|                         |                         |                         |
+| ----------------------- | ----------------------- | ----------------------- |
+| ![](iPod/preview/1.jpg) | ![](iPod/preview/2.jpg) | ![](iPod/preview/3.jpg) |
+
+## [Wallart](Wallart/)
+
+I'll explain later!
