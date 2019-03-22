@@ -14,6 +14,6 @@ Pretty themes for KLWP
 
 ## [iPod](iPod/)
 
-|                         |                         |                         |
-| ----------------------- | ----------------------- | ----------------------- |
-| ![](iPod/preview/1.jpg) | ![](iPod/preview/2.jpg) | ![](iPod/preview/3.jpg) |
+![](iPod/preview/1.jpg)
+![](iPod/preview/2.jpg)
+![](iPod/preview/3.jpg)
