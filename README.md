@@ -1,5 +1,5 @@
 <p align='center'>
-<br><img src='https://user-images.githubusercontent.com/74385/47948807-e0779800-df72-11e8-81e8-68ec5c61de46.png' width='160'><br>
+<br><img src='https://user-images.githubusercontent.com/74385/54806863-4ceefb80-4cb6-11e9-92de-82c8c28a3c04.png' width='160'><br>
 </p>
 
 <h1 align='center'>
@@ -31,3 +31,7 @@ Three-page theme optimized for 18:9 screens. [**Download**](Wallart/Wallart_1g.k
 |                            |                            |                            |
 | -------------------------- | -------------------------- | -------------------------- |
 | ![](Wallart/preview/1.jpg) | ![](Wallart/preview/2.jpg) | ![](Wallart/preview/3.jpg) |
+
+## Thanks
+
+[iPod icon](https://thenounproject.com/term/ipod/964148) designed by Made on the @NounProject
