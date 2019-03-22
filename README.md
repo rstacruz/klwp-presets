@@ -18,7 +18,7 @@ These themes require [KLWP][klwp] (Kustom Live Wallpaper) with a Pro key.
 
 ## [iPod](iPod/)
 
-Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Download**](iPod/iPod.kwlp)
+Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Download**](https://github.com/rstacruz/klwp-presets/raw/master/iPod/iPod.klwp)
 
 |                         |                         |                         |
 | ----------------------- | ----------------------- | ----------------------- |
@@ -26,7 +26,7 @@ Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Dow
 
 ## [Wallart](Wallart/)
 
-Three-page theme optimized for 18:9 screens. [**Download**](Wallart/Wallart_1g.kwlp)
+Three-page theme optimized for 18:9 screens. [**Download**](https://github.com/rstacruz/klwp-presets/raw/master/Wallart/Wallart_1g.klwp)
 
 |                            |                            |                            |
 | -------------------------- | -------------------------- | -------------------------- |
