@@ -32,7 +32,7 @@ Distraction-free minimal UI inspired by Microsoft Zune and [LessPhone]. Four-pag
 
 |                         |                         |                         |
 | ----------------------- | ----------------------- | ----------------------- |
-| ![](Zuna/preview/1.jpg) | ![](Zuna/preview/2.jpg) | ![](Zuna/preview/3.jpg) |
+| ![](Zuna/preview/4.jpg) | ![](Zuna/preview/5.jpg) | ![](Zuna/preview/6.jpg) |
 
 ## [Wallart](Wallart/)
 
