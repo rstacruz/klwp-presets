@@ -32,7 +32,9 @@ Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Dow
 
 |                         |                         |                         |
 | ----------------------- | ----------------------- | ----------------------- |
-| ![](iPod/preview/1.jpg) | ![](iPod/preview/2.jpg) | ![](iPod/preview/3.jpg) |
+| ![](iPod/preview/5.jpg) | ![](iPod/preview/1.jpg) | ![](iPod/preview/3.jpg) |
+|                         |                         |                         |
+| ![](iPod/preview/4.jpg) | ![](iPod/preview/2.jpg) |                         |
 
 ## [Wallart](Wallart/)
 
