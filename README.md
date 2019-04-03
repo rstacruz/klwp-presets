@@ -22,9 +22,10 @@ Distraction-free minimal UI inspired by Microsoft Zune and [LessPhone]. Four-pag
 
 [LessPhone]: https://play.google.com/store/apps/details?id=me.aswinmohan.nophone&hl=en
 
-|                           |                           |                           |
-| ------------------------- | ------------------------- | ------------------------- |
-| ![](Hyphen/preview/4.jpg) | ![](Hyphen/preview/5.jpg) | ![](Hyphen/preview/6.jpg) |
+|                           |                           |                            |
+| ------------------------- | ------------------------- | -------------------------- |
+| ![](Hyphen/preview/4.jpg) | ![](Hyphen/preview/5.jpg) | ![](Hyphen/preview/6.jpg)  |
+| ![](Hyphen/preview/9.jpg) | ![](Hyphen/preview/8.jpg) | ![](Hyphen/preview/10.jpg) |
 
 ## [iPod](iPod/)
 
