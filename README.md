@@ -16,14 +16,6 @@ These themes require [KLWP][klwp] (Kustom Live Wallpaper) with a Pro key.
 
 [klwp]: https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en
 
-## [iPod](iPod/)
-
-Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Download**](https://github.com/rstacruz/klwp-presets/raw/master/iPod/iPod.klwp)
-
-|                         |                         |                         |
-| ----------------------- | ----------------------- | ----------------------- |
-| ![](iPod/preview/1.jpg) | ![](iPod/preview/2.jpg) | ![](iPod/preview/3.jpg) |
-
 ## [Hyphen](Hyphen/)
 
 Distraction-free minimal UI inspired by Microsoft Zune and [LessPhone]. Four-page theme. [**Download**](https://github.com/rstacruz/klwp-presets/raw/master/Hyphen/Hyphen.klwp)
@@ -33,6 +25,14 @@ Distraction-free minimal UI inspired by Microsoft Zune and [LessPhone]. Four-pag
 |                           |                           |                           |
 | ------------------------- | ------------------------- | ------------------------- |
 | ![](Hyphen/preview/4.jpg) | ![](Hyphen/preview/5.jpg) | ![](Hyphen/preview/6.jpg) |
+
+## [iPod](iPod/)
+
+Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Download**](https://github.com/rstacruz/klwp-presets/raw/master/iPod/iPod.klwp)
+
+|                         |                         |                         |
+| ----------------------- | ----------------------- | ----------------------- |
+| ![](iPod/preview/1.jpg) | ![](iPod/preview/2.jpg) | ![](iPod/preview/3.jpg) |
 
 ## [Wallart](Wallart/)
 
