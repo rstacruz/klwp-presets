@@ -25,6 +25,7 @@ Distraction-free minimal UI inspired by Microsoft Zune and [LessPhone]. Four-pag
 |                           |                           |                            |
 | ------------------------- | ------------------------- | -------------------------- |
 | ![](Hyphen/preview/4.jpg) | ![](Hyphen/preview/5.jpg) | ![](Hyphen/preview/6.jpg)  |
+|                           |                           |                            |
 | ![](Hyphen/preview/9.jpg) | ![](Hyphen/preview/8.jpg) | ![](Hyphen/preview/10.jpg) |
 
 ## [iPod](iPod/)
@@ -35,7 +36,7 @@ Three-page theme optimized for 18:9 screens (with some support for 16:9). [**Dow
 | ----------------------- | ----------------------- | ----------------------- |
 | ![](iPod/preview/5.jpg) | ![](iPod/preview/1.jpg) | ![](iPod/preview/3.jpg) |
 |                         |                         |                         |
-| ![](iPod/preview/4.jpg) | ![](iPod/preview/2.jpg) |                         |
+| ![](iPod/preview/4.jpg) | ![](iPod/preview/6.jpg) | ![](iPod/preview/7.jpg) |
 
 ## [Wallart](Wallart/)
 
